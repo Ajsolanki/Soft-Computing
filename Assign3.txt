@@ -1,0 +1,64 @@
+Quest- Find applications where you find fuzzy logic to be suitable.
+
+Ans.- Home Electronics
+      Vehical Control
+      Process Control
+      Pattern Recognition & Image Processing
+      Expert System
+      Military System
+      Space Research
+      Traffic light signal Controller
+      Landslide
+
+    - Application to very complex control problem(Japan 1991): E.G.autopilot
+
+    - Application to " FOREX " system.
+
+    - Popular applications of Fuzzy logic
+        .Smart Air Conditioner:
+            Conventional air conditioners operate on the principle like -
+            "When the temperature rises to 25 degree C, turn on the unit ,
+            when the temperature falls to 20 degree, turn off the unit ".
+        .Mitsubishi Aircon uses fuzzy rules like:
+           "If the ambient air is getting warmer, turn the cooling power up a little;
+            if the air is getting chilly, turn the power down moderately,etc."
+    - Smart Vacuum Cleaner:
+         (according to the type of floor & the amount of dust.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
